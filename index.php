@@ -1,2 +1,2 @@
 <php
-	print 'Hello';
+	echo 'Hello';
